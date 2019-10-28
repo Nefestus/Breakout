@@ -1,0 +1,2 @@
+paddleMoveUnitsPerSecond,ballImpulseForce,ballTimeToLive,ballSpawnCoordinateDelta,maxBallsInGame,ballActivateDelay,minBallSpawnTime,maxBallSpawnTime,ballsAvailableAtStart,basicBrickScoreValue, bonusBrickScoreValue,freezerBrickScoreValue,speedBrickScoreValue,freezerPickupDuration,speedPickupDuration
+8,3,20,1,5,2,2,5,5,1,5,10,15,3,3
